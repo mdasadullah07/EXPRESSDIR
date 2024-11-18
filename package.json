@@ -1,0 +1,24 @@
+{
+  "name": "expressdir",
+  "version": "1.0.0",
+  "description": "this is exprees ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express dir"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "exprees",
+    "file"
+  ],
+  "author": "mdasadullah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
